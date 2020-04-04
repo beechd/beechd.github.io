@@ -29,11 +29,21 @@ Eclipse is an Integrated Development Environment, commonly abbreviated as IDE. E
 Installing Eclipse is quite easy using the installer.
 
 1. Go to [Eclipse's download page](https://www.eclipse.org/downloads/packages/installer).
-2. Click the installation link for you Operating System.
+2. Click the installation link for you Operating System.<br/>
 ![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installerImage.png)
-3. Click the large orange Download button.
+3. Click the large orange Download button.<br/>
 ![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installerImage2.png)
-4. 
+4. Open the Eclipse Installer once finished downloading.
+5. Click the button for the appropriate version of Eclipse you need.
+    - *Note:* If unsure, the "Eclipse IDE for Java Developers" will suffice for most cases.
+ ![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installerImage3.png)
+6. Click the large orange Install Button.<br/>
+![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installationPath.png)
+    - *Note:* Choose a different installation path here if desired. You can also choose to uncheck "create start menu entry" or "create desktop shortcut" options if desired.
+7. Wait for the installation to finish.<br/>
+![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installProgress.png)
+
+You may now use Eclipse however you wish. If you selected "create desktop shortcut" then you can find the Eclipse icon on your desktop which can be used to launch the application. Otherwise, you may have to open the path which you installed the application to and launch from there by opening "eclipse.exe".
 
 ## FAQs<a name ="faq"></a>
 
