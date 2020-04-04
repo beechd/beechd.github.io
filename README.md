@@ -67,6 +67,6 @@ You may now use Eclipse however you wish. If you selected "create desktop shortc
 
 ## Troubleshooting/Where to Get Support<a name ="support"></a>
 
-For more help with Eclipse
+For more help with Eclipse please visit
 
 ## Licensing<a name ="licensing"></a>
