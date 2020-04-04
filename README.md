@@ -50,13 +50,13 @@ Installing Eclipse is quite easy using the installer.
 
 6. Click the large Install Button.<br/>
 <p align="center">
-    <img src=https://github.com/beechd/beechd.github.io/blob/master/images/installationPath.png">
+    <img src="https://github.com/beechd/beechd.github.io/blob/master/images/installationPath.png">
 </p>                                                                                                
     
     - *Note:* Choose a different installation path here if desired. You can also choose to uncheck "create start menu entry" or "create desktop shortcut" options if desired.
 7. Wait for the installation to finish.<br/>
 <p align="center">
-![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installProgress.png)
+    <img src="https://github.com/beechd/beechd.github.io/blob/master/images/installProgress.png">
 </p>
 
 You may now use Eclipse however you wish. If you selected "create desktop shortcut" then you can find the Eclipse icon on your desktop which can be used to launch the application. Otherwise, you may have to open the path which you installed the application to and launch from there by opening "eclipse.exe".
