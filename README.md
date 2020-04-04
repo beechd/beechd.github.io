@@ -63,7 +63,7 @@ You may now use Eclipse however you wish. If you selected "create desktop shortc
 ## FAQs<a name ="faq"></a>
 
  - How can I tell if I have Java installed?
-    - Open the command prompt (*Note:* This can be done by pressing ![](https://github.com/beechd/beechd.github.io/blob/master/images/windowsKey.jpg) + R then running "cmd").
+    - Open the command prompt (*Note:* This can be done by pressing ![](https://github.com/beechd/beechd.github.io/blob/master/images/windowsKey.png) + R then running "cmd").
 
 ## Troubleshooting/Where to Get Support<a name ="support"></a>
 
