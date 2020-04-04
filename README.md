@@ -81,6 +81,7 @@ You may now use Eclipse however you wish. If you selected "create desktop shortc
     - Expand the "General" menu.
     - Select "Appearance".
     - You can now select your desired *Theme* and *Color and Font theme* from the appropriate drop down.
+        - *Note:* Additional themes can be installed through the marketplace. See "How can I install plug-ins" above.
 
 ## Troubleshooting/Where to Get Support<a name ="support"></a>
 
