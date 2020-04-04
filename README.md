@@ -21,7 +21,7 @@ Eclipse is an Integrated Development Environment, commonly abbreviated as IDE. E
 |512MB RAM|1GB+ RAM     |
 |300MB Disk Space|1GB+ Disk Space|
 |800Mhz Processor|1.5Ghz+ Processor|
-|Java Version 1.4|Java Version 8.2|
+|Java Version 1.4|Java Version 1.8|
 
 ## Installation/use instructions<a name ="installation"></a>
 
@@ -64,9 +64,28 @@ You may now use Eclipse however you wish. If you selected "create desktop shortc
 
  - How can I tell if I have Java installed?
     - Open the command prompt (*Note:* This can be done by pressing <img src="https://github.com/beechd/beechd.github.io/blob/master/images/windowsKey.png" height="24" width="24"> + R then running "cmd").
+    - Type "java -version" and press enter.
+    - If the returned message displays a version of Java such as 1.8.0_241 then Java is installed an configured.
+    
+ - How can I install plug-ins?
+    - Open Eclipse.
+    - Open the "Help" menu in the top naviation bar.
+    - Click "Install New Software".
+    - Search for your desired plug-in.
+    - Follow the printed on screen instructions to installed the plug-in.
+    
+ - How do I change Eclipse's appearance?
+    - Open Eclipse.
+    - Open the "Window" menu in the top naviagation bar.
+    - Click "Preferences".
+    - Expand the "General" menu.
+    - Select "Appearance".
+    - You can now select your desired *Theme* and *Color and Font theme* from the appropriate drop down.
 
 ## Troubleshooting/Where to Get Support<a name ="support"></a>
 
-For more help with Eclipse please visit
+For more help with Eclipse or help with other issues, please visit [Eclipse's help page](https://help.eclipse.org/2020-03/index.jsp).
 
 ## Licensing<a name ="licensing"></a>
+
+Eclipse is an open-source piece of software which abides by a Public License. For more info about the Eclipse Public License (EPL) click [here](https://www.eclipse.org/legal/epl-2.0/).
