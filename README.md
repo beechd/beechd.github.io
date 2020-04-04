@@ -6,7 +6,6 @@ Table of Contents
 - [Installation/use instructions](#installation)
 - [FAQs](#faq)
 - [Troubleshooting/Where to Get Support](#support)
-- [How to Contribute](#contribute)
 - [Licensing](#licensing)
 
 ---
@@ -63,8 +62,10 @@ You may now use Eclipse however you wish. If you selected "create desktop shortc
 
 ## FAQs<a name ="faq"></a>
 
+ - How can I tell if I have Java installed?
+    - Open the command prompt (*Note: This can be done by pressing <img=src"https://github.com/beechd/beechd.github.io/blob/master/images/windowsKey.png" width="12" height="12> + R then running "cmd").
+
 ## Troubleshooting/Where to Get Support<a name ="support"></a>
 
-## How to Contribute<a name ="contribute"></a>
 
 ## Licensing<a name ="licensing"></a>
