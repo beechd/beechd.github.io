@@ -29,24 +29,30 @@ Eclipse is an Integrated Development Environment, commonly abbreviated as IDE. E
 Installing Eclipse is quite easy using the installer.
 
 1. Go to [Eclipse's download page](https://www.eclipse.org/downloads/packages/installer).
+
 2. Click the installation link for you Operating System.<br/>
 <p align="center">
-![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installerImage.png)
+    <img src="https://github.com/beechd/beechd.github.io/blob/master/images/installerImage.png">
 </p>
+
 3. Click the large orange Download button.<br/>
 <p align="center">
-![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installerImage2.png)
+    <img src="https://github.com/beechd/beechd.github.io/blob/master/images/installerImage2.png">
 </p>
+
 4. Open the Eclipse Installer once finished downloading.
+
 5. Click the button for the appropriate version of Eclipse you need.
     - *Note:* If unsure, the "Eclipse IDE for Java Developers" will suffice for most cases.
 <p align="center">
-![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installerImage3.png)
+    <img src="https://github.com/beechd/beechd.github.io/blob/master/images/installerImage3.png">
 </p>
+
 6. Click the large Install Button.<br/>
 <p align="center">
-![Image](https://github.com/beechd/beechd.github.io/blob/master/images/installationPath.png)
-</p>
+    <img src=https://github.com/beechd/beechd.github.io/blob/master/images/installationPath.png">
+</p>                                                                                                
+    
     - *Note:* Choose a different installation path here if desired. You can also choose to uncheck "create start menu entry" or "create desktop shortcut" options if desired.
 7. Wait for the installation to finish.<br/>
 <p align="center">
