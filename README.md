@@ -2,7 +2,7 @@
 
 Table of Contents
 - [Introduction](#introduction)
-- [Description of Equipment & List of Materials](#equipment)
+- [System Requirements](#equipment)
 - [Code example](#examples)
 - [Installation/use instructions](#installation)
 - [Link(s) to your code](#myCode)
@@ -15,11 +15,18 @@ Table of Contents
 
 ## Introduction <a name ="introduction"></a>
 
-Eclipse is an Integrated Development Environment, commonly abbreviated as IDE. 
+Eclipse is an Integrated Development Environment, commonly abbreviated as IDE. Eclipse is used for the creation of software in 44 different programming languages, however its primary use is for developing Java applications. Plug-ins, which are used to expand the functionality and/or aesthetics of Eclipse, can be downloaded from Eclipse's marketplace which is included in the Eclipse program. 
 
 ---
 
-## Description of Equipment & List of Materials<a name ="equipment"></a>
+## System Requirements<a name ="equipment"></a>
+
+| Minimum | Recommended |
+|---------|-------------|
+|512MB RAM|1GB+ RAM     |
+|300MB Disk Space|1GB+ Disk Space|
+|800Mhz Processor|1.5Ghz+ Processor|
+|Java Version 1.4|Java Version 8.2|
 
 ---
 
