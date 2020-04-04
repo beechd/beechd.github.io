@@ -1,4 +1,4 @@
-# <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="24" height="24">Eclipse Integrated Development Environment (IDE) 2020-03
+# <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="24" height="24"> Eclipse Integrated Development Environment (IDE) 2020-03
 
 Table of Contents
 - [Introduction](#introduction)
@@ -81,7 +81,7 @@ You may now use Eclipse however you wish. If you selected "create desktop shortc
     - Expand the "General" menu.
     - Select "Appearance".
     - You can now select your desired *Theme* and *Color and Font theme* from the appropriate drop down.
-        - *Note:* Additional themes can be installed through the marketplace. See "How can I install plug-ins" above.
+        - *Note:* Additional themes can be installed through the marketplace. See "How can I install plug-ins?" above.
 
 ## Troubleshooting/Where to Get Support<a name ="support"></a>
 
