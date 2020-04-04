@@ -29,10 +29,11 @@ Eclipse is an Integrated Development Environment, commonly abbreviated as IDE. E
 Installing Eclipse is quite easy using the installer.
 
 1. Go to [Eclipse's download page](https://www.eclipse.org/downloads/packages/installer).
-2. Click the installation link for you Operating System
-![This is the installer location with links on the right]("images/installerImage.png" "installer")
-3. Click the large orange Download button
-![This will start the download of the installer]("images/installerImage2.png" "downloadButton")
+2. Click the installation link for you Operating System.
+![This is the installer location with links on the right]("https://github.com/beechd/beechd.github.io/blob/master/images/installerImage.png" "installer")
+3. Click the large orange Download button.
+![This will start the download of the installer]("https://github.com/beechd/beechd.github.io/blob/master/images/installerImage2.png" "downloadButton")
+4. 
 
 ## FAQs<a name ="faq"></a>
 
