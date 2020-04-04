@@ -14,7 +14,9 @@ Table of Contents
 ---
 
 ## Introduction <a name ="introduction"></a>
+
 Eclipse is an Integrated Development Environment, commonly abbreviated as IDE. 
+
 ---
 
 ## Description of Equipment & List of Materials<a name ="equipment"></a>
