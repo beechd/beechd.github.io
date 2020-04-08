@@ -31,7 +31,7 @@ Installing Eclipse is quite easy using the installer.
 
 2. Click the installation link for you Operating System.<br/>
 <p align="center">
-    <img src="https://github.com/beechd/beechd.github.io/blob/master/images/installerImage.png">
+    <img src="https://user-images.githubusercontent.com/10245426/78836995-2f73f900-79c1-11ea-908b-0716319f421d.png">
 </p>
 
 3. Click the large orange Download button.<br/>
@@ -50,7 +50,7 @@ Installing Eclipse is quite easy using the installer.
 6. Click the large Install Button.<br/>
     - *Note:* Choose a different installation path here if desired. You can also choose to uncheck "create start menu entry" or "create desktop shortcut" options if desired.
 <p align="center">
-    <img src="https://github.com/beechd/beechd.github.io/blob/master/images/installationPath.png">
+    <img src="https://user-images.githubusercontent.com/10245426/78836707-a52b9500-79c0-11ea-9807-505172e4cc5c.png">
 </p>                                                                                                
     
 7. Wait for the installation to finish.<br/>
