@@ -63,7 +63,7 @@ You may now use Eclipse however you wish. If you selected "create desktop shortc
 ## FAQs<a name ="faq"></a>
 
  - How can I tell if I have Java installed?
-    - Open the command prompt (*Note:* This can be done by pressing <img src="https://user-images.githubusercontent.com/10245426/78837365-e2445700-79c1-11ea-88f0-3e50289fc44f.png" height="24" width="24"> + R then running "cmd").
+    - Open the command prompt (*Note:* This can be done by pressing <img src="https://user-images.githubusercontent.com/10245426/78837365-e2445700-79c1-11ea-88f0-3e50289fc44f.png" height="32" width="32"> + R then running "cmd").
     - Type "java -version" and press enter.
     - If the returned message displays a version of Java such as 1.8.0_241 then Java is installed an configured.
     
